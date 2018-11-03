@@ -2,3 +2,5 @@
 rdc workshop
 
 new branch
+
+new conflict
